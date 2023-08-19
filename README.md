@@ -25,10 +25,10 @@ We have implemented the following machine learning models from scratch using the
 
 ## Running the Models :computer:
 1. Open Jupyter Notebook:
-2. Navigate to the `notebooks` directory and open the respective model notebook (e.g., `Logistic_Regression.ipynb`).
+2. Navigate to the `notebooks` directory and open the respective model notebook from our rpository
 3. Follow the step-by-step instructions in the notebook to understand the implementation and run the model.
 
-## Refernece for Maths Intution of Machine Learning Models
+## Reference for Maths Intution of Machine Learning Models
 https://www.analyticsvidhya.com/blog/2019/10/mathematics-behind-machine-learning/
 
 
